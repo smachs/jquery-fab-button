@@ -38,6 +38,12 @@ $.fn.extend({
     }
 });
 
+var head= document.getElementsByTagName('head')[0];
+var script= document.createElement('script');
+script.type= 'text/javascript';
+script.src= '//cdnjs.cloudflare.com/ajax/libs/velocity/1.2.3/velocity.min.js';
+head.appendChild(script);
+
 var openFABMenu = function (btn) {
     $this = btn;
     if ($this.hasClass('active') === false) {
