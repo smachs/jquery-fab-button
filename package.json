@@ -1,6 +1,6 @@
 {
   "name": "jquery-fab-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extracted from materializecss to those who want speed and flexibility without adhering to the complete materializecss framework.",
   "repository": {
     "type": "git",
