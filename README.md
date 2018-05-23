@@ -32,7 +32,7 @@ $ git clone https://github.com/smachs/jquery-fab-button
 2. Copy all dependencies from directory
 
 ```bash
-$ cd /js or /csss
+$ cd /js or /css
 ```
 
 3. Add to your template
