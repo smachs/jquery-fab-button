@@ -1,0 +1,21 @@
+{
+  "name": "jquery-fab-button",
+  "version": "1.0.0",
+  "description": "Extracted from materializecss to those who want speed and flexibility without adhering to the complete materializecss framework.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smachs/jquery-fab-button.git"
+  },
+  "keywords": [
+    "material",
+    "javascript",
+    "materiliaze",
+    "fab button"
+  ],
+  "author": "smachs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smachs/jquery-fab-button/issues"
+  },
+  "homepage": "https://github.com/smachs/jquery-fab-button#readme"
+}
