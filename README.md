@@ -9,7 +9,7 @@ A **small** module for **jQuery** and **Javascript** based in **MaterializeCSS**
 * [Release Notes](https://github.com/smachs/jquery-fab-button/releases)
 * [Gallery]()
 * [Wiki](https://github.com/smachs/jquery-fab-button/wiki)
-* [Example](https://jsfiddle.net/smachs/bLj5p1st/13)
+* [Live Demo](https://jsfiddle.net/smachs/bLj5p1st/13)
 
 ## Future Updates
 * [ ] More animations.
