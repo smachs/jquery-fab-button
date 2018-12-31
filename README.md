@@ -91,7 +91,8 @@ $ cd /js or /css
 
 ### Contributing
 
-Thanks for your interest in contributing! Read up on our guidelines for
+Thanks for your interest in contributing! 
+Read up on our guidelines for
 [contributing](https://github.com/smachs/jquery-fab-button/blob/master/CONTRIBUTING.md)
 and then look through our issues with a [help wanted](https://github.com/smachs/jquery-fab-button/issues?q=how-to-help-project)
 label :yum:
