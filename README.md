@@ -9,13 +9,14 @@ A **small** module for **jQuery** and **Javascript** based in **MaterializeCSS**
 * [Release Notes](https://github.com/smachs/jquery-fab-button/releases)
 * [Gallery]()
 * [Wiki](https://github.com/smachs/jquery-fab-button/wiki)
+* [Example](https://jsfiddle.net/smachs/bLj5p1st/13)
 
 ## Future Updates
 * [ ] More animations.
-* [ ] Tooltips.
+* [x] Tooltips.
 * [ ] Modal generator.
 * [ ] Badges with animations for notifications that are received.
-* [ ] Color palette to be used directly in the FAB using data attributes.
+* [x] Color palette to be used directly in the FAB using data attributes.
 
 ## Table of Resources
 
@@ -27,7 +28,8 @@ A **small** module for **jQuery** and **Javascript** based in **MaterializeCSS**
 
 ```bash
 $ git clone https://github.com/smachs/jquery-fab-button
-```
+
+[CDN](https://cdn.jsdelivr.net/gh/smachs/jquery-fab-button)
 
 2. Copy all dependencies from directory
 
