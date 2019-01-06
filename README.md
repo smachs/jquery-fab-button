@@ -9,7 +9,7 @@ A **small** module for **jQuery** and **Javascript** based in **MaterializeCSS**
 * [Release Notes](https://github.com/smachs/jquery-fab-button/releases)
 * [Gallery]()
 * [Wiki](https://github.com/smachs/jquery-fab-button/wiki)
-* [Live Demo](https://jsfiddle.net/smachs/bLj5p1st/19/)
+* [Live Demo](https://jsfiddle.net/smachs/bLj5p1st/41/)
 
 ## Future Updates
 * [ ] More animations.
@@ -28,7 +28,7 @@ A **small** module for **jQuery** and **Javascript** based in **MaterializeCSS**
 
 ```bash
 $ git clone https://github.com/smachs/jquery-fab-button
-
+```
 [CDN](https://cdn.jsdelivr.net/gh/smachs/jquery-fab-button)
 
 2. Copy all dependencies from directory
@@ -49,12 +49,11 @@ $ cd /js or /css
 4. Change to color you want
 
 ```bash
-.btn-floating {
-    background-color: #3f51b5;
-}
-.btn-floating:hover {
-    background-color: #3f51b5;
-}
+<li>
+    <a id="first-fab" class="btn-floating" data-fabcolor="#YourHEX">
+        <i class="material-icons">insert_chart</i>
+    </a>
+</li>
 ```
 
 5. Add FAB to your template
@@ -66,22 +65,22 @@ $ cd /js or /css
     </a>
     <ul>
         <li>
-            <a class="btn-floating bg-indigo">
+            <a id="first-fab" class="btn-floating" data-fabcolor="#45d1ff">
                 <i class="material-icons">insert_chart</i>
             </a>
         </li>
         <li>
-            <a class="btn-floating bg-indigo">
+            <a id="second-fab" class="btn-floating" data-fabcolor="#7345ff">
                 <i class="material-icons">format_quote</i>
             </a>
         </li>
         <li>
-            <a class="btn-floating bg-indigo">
+            <a id="third-fab" class="btn-floating" data-fabcolor="#0084ff">
                 <i class="material-icons">publish</i>
             </a>
         </li>
         <li>
-            <a class="btn-floating bg-indigo">
+            <a id="fourth-fab" class="btn-floating" data-fabcolor="#ff7345">
                 <i class="material-icons">attach_file</i>
             </a>
         </li>
