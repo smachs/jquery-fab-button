@@ -14,7 +14,7 @@ A **small** module for **jQuery** and **Javascript** based in **MaterializeCSS**
 ## Future Updates
 * [ ] More animations.
 * [x] Tooltips.
-* [ ] Modal generator.
+* [x] Modal generator.
 * [ ] Badges with animations for notifications that are received.
 * [x] Color palette to be used directly in the FAB using data attributes.
 
