@@ -1,6 +1,6 @@
 # jQuery FAB Button
 
-<a href="https://github.com/smachs/jquery-fab-button"><img  width="91px" height="93px" src="https://res.cloudinary.com/anzu-club/image/upload/v1546279089/LIBs/jQuery%20FAB/menu.svg" align="left" align="left" hspace="10" vspace="6"></a>
+<a href="https://github.com/smachs/jquery-fab-button"><img width="91px" height="93px" src="https://res.cloudinary.com/fujikawa-lab/image/upload/v1546279089/LIBs/jQuery%20FAB/menu.svg" align="left" align="left" hspace="10" vspace="6"></a>
 A **small** module for **jQuery** and **Javascript** based in **MaterializeCSS** one day I was looking for some alternative to **floating action buttons** but with no result and the **floating action buttons** that I thought were either incomplete or not feasible I remembered that I used **MaterializeCSS** and I decided to adapt only the **floating action button** to be used separately from framework.
 
 ## Resources
