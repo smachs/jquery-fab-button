@@ -3,28 +3,33 @@
  * Copyright 2014-2019 Materialize & Smachs
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
  */
+/*!
+ * jQuery FAB Button v1.1.0 (https://github.com/smachs/jquery-fab-button)
+ * Copyright 2014-2019 Materialize & Smachs
+ * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
+ */
 $(document).ready(function () {
     // jQuery reverse
     $.fn.reverse = [].reverse;
 
     // Hover behaviour: make sure this doesn't work on .click-to-toggle FABs!
     $(document).on('mouseenter.fixedActionBtn', '.fixed-action-btn:not(.click-to-toggle)', function (e) {
-    	// Open
+    		// Open
         var $this = $(this);
         openFABMenu($this);
         
         // Change background based in data attributes
         $("#first-fab").css('background', function () {
-        	return $(this).data('fabcolor');
+        	return $(this).data('fabcolor')
         });
         $("#second-fab").css('background', function () {
-        	return $(this).data('fabcolor');
+        	return $(this).data('fabcolor')
         });
         $("#third-fab").css('background', function () {
-        	return $(this).data('fabcolor');
+        	return $(this).data('fabcolor')
         });
         $("#fourth-fab").css('background', function () {
-        	return $(this).data('fabcolor');
+        	return $(this).data('fabcolor')
         });
     });
     $(document).on('mouseleave.fixedActionBtn', '.fixed-action-btn:not(.click-to-toggle)', function (e) {
