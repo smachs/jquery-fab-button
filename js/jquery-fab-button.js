@@ -8,6 +8,11 @@
  * Copyright 2014-2019 Materialize & Smachs
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
  */
+/*!
+ * jQuery FAB Button v1.1.0 (https://github.com/smachs/jquery-fab-button)
+ * Copyright 2014-2019 Materialize & Smachs
+ * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
+ */
 $(document).ready(function () {
     // jQuery reverse
     $.fn.reverse = [].reverse;
